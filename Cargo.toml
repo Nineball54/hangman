@@ -1,6 +1,6 @@
 [package]
-name = "array-game"
-version = "0.1.0"
+name = "hangman"
+version = "0.2.0"
 authors = ["Cbedford"]
 edition = "2018"
 
